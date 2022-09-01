@@ -1,9 +1,6 @@
 ### Olá, eu sou o Mateus Campos.
 ##
 
-- 🔭 Hoje trabalho com Desenvolvimento de Software
-- 🌱 Estudando Docker e afins.
-
 <div align="center">
   <a href="https://github.com/mateusC2000">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusC2000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
