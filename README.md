@@ -1,6 +1,6 @@
 ![image](https://github.com/mateusC2000/mateusC2000/assets/84716129/1a76c3e0-4667-4201-89a7-dbb4f3a3f30f)
 
-  <h1>Olá!! eu sou o Mateus Campos. 💙 </h1>
+  <h1>Hello!! I'm Mateus Campos. 💙 </h1>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 💬 &nbsp; I fit into several scenarios, including:
