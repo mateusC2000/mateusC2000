@@ -51,10 +51,5 @@
   <a href="https://www.linkedin.com/in/mateus-campos-156653212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
- ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Total Profile Views 👀: <br>
- <p align="center"> 
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Thanks+for+the+visit!;Check+back+often!" alt="Typing SVG" /></a>
- </p>
-&nbsp;
-
 ![snake gif](https://github.com/mateusC2000/mateusC2000/blob/output/github-contribution-grid-snake.svg)
+
