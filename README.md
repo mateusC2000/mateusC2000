@@ -3,14 +3,7 @@
   <h1>Hello!! I'm Mateus Campos. 💙 </h1>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 💬 &nbsp; I fit into several scenarios, including:
-- 💻 &nbsp; Technology.
-- ⚽ &nbsp; Football.
-- 👾 &nbsp; Geek.
-- 🐉 &nbsp; Anime.
-- 🏋🏻 &nbsp; Bodybuilding.
-- 🎶 &nbsp; Music.
-- 📝 &nbsp; Poetry.
+💻Olá! Sou um desenvolvedor de software com mais de 3 anos de experiência focado em Ruby on Rails, apaixonado por criar soluções inovadoras e eficientes. Natural da Bahia, estou sempre em busca de aprendizado contínuo. Atualmente, curso Análise e Desenvolvimento de Sistemas e venho aprimorando minhas habilidades em Python. Tenho facilidade para trabalhar em equipe, uma comunicação clara e assertiva, e colaboro ativamente para ambientes produtivos e projetos bem-sucedidos. Meu objetivo é entregar resultados de alta qualidade e contribuir para o crescimento das pessoas e empresas com as quais colaboro. 🚀
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Always+looking+to+learn+new+things!;Always+looking+for+new+challenges!" alt="Typing SVG" /></a>
