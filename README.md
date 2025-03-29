@@ -1,49 +1,75 @@
-![image](https://github.com/mateusC2000/mateusC2000/assets/84716129/1a76c3e0-4667-4201-89a7-dbb4f3a3f30f)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00ff7f&height=300&section=header&text=Olá!%20Sou%20Mateus%20Campos%20💙&fontSize=35&fontAlignY=40&desc=Software%20Developer%20|%20Ruby%20on%20Rails%20&descAlignY=60&descAlign=50" width="100%" />
 
-  <h1>Hello!! I'm Mateus Campos. 💙 </h1>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-💻Olá! Sou um desenvolvedor de software com mais de 3 anos de experiência focado em Ruby on Rails, apaixonado por criar soluções inovadoras e eficientes. Natural da Bahia, estou sempre em busca de aprendizado contínuo. Atualmente, curso Análise e Desenvolvimento de Sistemas e venho aprimorando minhas habilidades em Python. Tenho facilidade para trabalhar em equipe, uma comunicação clara e assertiva, e colaboro ativamente para ambientes produtivos e projetos bem-sucedidos. Meu objetivo é entregar resultados de alta qualidade e contribuir para o crescimento das pessoas e empresas com as quais colaboro. 🚀
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Always+looking+to+learn+new+things!;Always+looking+for+new+challenges!" alt="Typing SVG" /></a>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </p>
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3EwdGZyb3R6anBxc3g3c2plZ3U4bmtmOWJhMXhmbXZxc2JvaGMzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50"> GitHub Stats
-&nbsp;
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500">
+</div>
+
+---
+
+## 💻 Sobre mim
+Sou um **desenvolvedor de software** com mais de **3 anos de experiência**, focado em **Ruby on Rails** e apaixonado por criar soluções inovadoras e eficientes! 🚀  
+Natural da Bahia, estou sempre em busca de **aprendizado contínuo**. Atualmente, curso **Análise e Desenvolvimento de Sistemas** e estou aprimorando minhas habilidades em **Python**. Além disso:
+- 🔗 **Colaborativo:** Facilidade para trabalhar em equipe.
+- 📢 **Comunicativo:** Comunicação clara e assertiva.
+- 🎯 **Comprometido:** Busco contribuir para projetos bem-sucedidos.
+
+✨ Meu objetivo? Entregar **resultados de alta qualidade** e **colaborar no crescimento de pessoas e empresas**!
+
+---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077FF&lines=Always+looking+to+learn+new+things!;Always+looking+for+new+challenges!" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+## 🛠️ **Tecnologias e Ferramentas**  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" alt="SQL" width="50" height="50"/>
+</div>
+
+---
+
+## 📊 **GitHub Stats**
 <div align="center">
   <a href="https://github.com/mateusC2000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusC2000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusC2000&layout=compact&langs_count=7&theme=dark"/>
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mateusC2000&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
-</div>
-
-## <img src="https://media4.giphy.com/media/ThrM4jEi2lBxd7X2yz/giphy.gif?cid=ecf05e47f0wg372ey9z4effp3izy767vpt2s3zs28o5qjwuq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"> Languages and Tools:
-&nbsp;
-<div style="display: inline_block"><br>
-  <img align="center" alt="Teu-Ruby" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  <img align="center" alt="Teu-Ruby" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
-  <img align="center" alt="Teu-Ruby" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img align="center" alt="Teu-Ruby" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Teu-Ruby" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Teu-Ruby" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Teu-Ruby" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />   
-  <img align="center" alt="Teu-Ruby" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Teu-Ruby" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Teu-Ruby" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />        
-</div>
-
- ## <img src="https://properuseofwords.files.wordpress.com/2018/05/talk.gif?w=557&h=344" width="50"> Social Media:
- &nbsp;
- <div>
-  <a href="https://www.instagram.com/_mbfields_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/_mbfields_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"_blank"></a>
- <a href="https://discordapp.com/users/509399495721615361" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://www.facebook.com/profile.php?id=100013784800565"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-campos-156653212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusC2000&show_icons=true&theme=gradient&bg_color=0d1117&title_color=00ff7f&text_color=ffffff&icon_color=0077ff&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusC2000&layout=compact&langs_count=7&theme=gradient&bg_color=0d1117&title_color=00ff7f&text_color=ffffff&icon_color=0077ff"/>
+  </a>
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=mateusC2000&theme=gruvbox&hide_border=true&background=0d1117&stroke=00ff7f&ring=0077ff&fire=00ff7f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0077ff" alt="GitHub Streak"/>
+  </a>
 </div>
 
 
+---
 
-
+## 🌍 **Redes Sociais**
+<div align="center">
+  <a href="https://www.instagram.com/_mbfields_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/_mbfields_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/509399495721615361" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100013784800565" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mateus-campos-156653212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
