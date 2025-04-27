@@ -52,7 +52,7 @@ Natural da Bahia, estou sempre em busca de **aprendizado contínuo**. Atualmente
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  <a href="https://github.com/mateusonrails">
+  <a href="https://github.com/mateusC2000">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusonrails&show_icons=true&theme=gradient&bg_color=0d1117&title_color=00ff7f&text_color=ffffff&icon_color=0077ff&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusonrails&layout=compact&langs_count=7&theme=gradient&bg_color=0d1117&title_color=00ff7f&text_color=ffffff&icon_color=0077ff"/>
   </a>
