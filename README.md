@@ -51,10 +51,6 @@ Natural da Bahia, estou sempre em busca de **aprendizado contínuo**. Atualmente
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusC2000&show_icons=true&theme=gradient&bg_color=0d1117&title_color=00ff7f&text_color=ffffff&icon_color=0077ff&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusC2000&layout=compact&langs_count=7&theme=gradient&bg_color=0d1117&title_color=00ff7f&text_color=ffffff&icon_color=0077ff"/>
   </a>
-  <br>
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=mateusC2000&theme=gruvbox&hide_border=true&background=0d1117&stroke=00ff7f&ring=0077ff&fire=00ff7f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0077ff" alt="GitHub Streak"/>
-  </a>
 </div>
 
 
